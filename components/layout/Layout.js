@@ -15,10 +15,14 @@ function Layout({ children }) {
       </header>
       <div className={styles.container}>{children}</div>
       <footer className={styles.footer}>
-        <a href="https://abbas-ejlali.ir" target="_blank" rel="noreferrer">
-          Food Store
+        Next Project | Food Store Project &copy;
+        <a
+          href="https://github.com/abbasejlali"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Abbas Ejlali
         </a>
-        Abbas Ejlali | Food Store Project &copy;
       </footer>
     </>
   );

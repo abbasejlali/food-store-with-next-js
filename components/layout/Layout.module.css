@@ -29,7 +29,8 @@
 
 .footer a {
   text-decoration: none;
-  color: #234a0b;
+  color: #fff;
+  margin-left: 5px;
 }
 
 .container {
