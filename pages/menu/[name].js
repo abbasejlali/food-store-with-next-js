@@ -35,7 +35,7 @@ export async function getStaticProps(context) {
   } = context;
   const res = await fetch(`http://localhost:4000/data/${name}`);
   const data = await res.json();
-
+  console.log(context);
   return {
     props: { data },
     revalidate: 10,

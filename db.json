@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Beef Wellington",
       "price": 13,
-      "discount": 10,
+      "discount": 20,
       "introduction": "A dish that's fallen out of favour and then become popular again more times than we can count, beef Wellington's origins are as unclear as its connection to Arthur Wellesley, 1st Duke of Wellington. Traditionally, it's a beef fillet steak, coated in pâté and mushroom duxelles (an extremely finely chopped mixture of mushrooms, shallots and herbs), wrapped in puff pastry, then baked. Its modern-day popularity is largely thanks to Gordon Ramsay who's made it one of his signature dishes.",
       "details": [
         { "Cuisine": "British" },
